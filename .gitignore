@@ -149,3 +149,5 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+# IDEA
+.idea/
